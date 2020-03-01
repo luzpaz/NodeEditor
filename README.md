@@ -1,4 +1,6 @@
 # FreeCAD Node Editor
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/microelly2/NodeEditor.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/microelly2/NodeEditor/alerts/) [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/microelly2/NodeEditor.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/microelly2/NodeEditor/context:python)  
+
 A visual node editor for FreeCAD based on [PyFlow](https://wonderworks-software.github.io/PyFlow).
 
 ![v0.0.3 screenshot](https://user-images.githubusercontent.com/4140247/60964703-fd265580-a2e1-11e9-906b-7dd91a754785.png)
